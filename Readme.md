@@ -1,5 +1,5 @@
 # SQL calls
-Personalized SQL queries between dates
+PrestaShop Module for run personalized SQL queries between dates
 
 English:
 
@@ -13,3 +13,6 @@ Spanish:
 El módulo permite guardar mediante su configuración una consulta SQL en la que se puede incluir (o no) una fecha de inicio y una de fin
 Para hacerlo funcionar solo hay que ir al nuevo partado "SQL Queries" que permite elegir las fechas para correr la consulta y devuelve un archivo en formato csv con los datos qeu devuelve la consulta.
 Es posible usar cualquier consulta select
+
+
+Tested for PS1.7.6-1.7.8
