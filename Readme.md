@@ -1,10 +1,10 @@
 # SQL calls
-PrestaShop Module for run personalized SQL queries between dates
+PrestaShop Module used to run personalized SQL queries between dates
 
 English:
 
 The module allows to save through its configuration a SQL query in which you can include (or not) a start date and an end date.
-To make it work you just have to go to the new "SQL Queries" section which allows you to choose the dates to run the query and returns a csv file with the data returned by the query.
+To make it work, you just have to go to the new "SQL Queries" section which allows you to choose the dates to run the query and returns a csv file with the data returned by the query.
 It is possible to use any select query
 
 
